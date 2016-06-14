@@ -16,8 +16,8 @@ o O o 0
 p P p
 q Q q
 r R r
-s S s
-t T t
+s S s $
+t T t 7
 u U u
 v V v
 w W w
